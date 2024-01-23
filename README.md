@@ -1,5 +1,4 @@
 # cis133-resources 
-<!DOCTYPE html>
 <html>
     <body>
         <p>Hello!!! everyone</p>
