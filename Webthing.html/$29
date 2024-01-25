@@ -10,3 +10,6 @@
                 <div>Exam Adjustment</div>
         </body>
 </html>
+body {
+    background-color: #000000;
+  }
