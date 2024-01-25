@@ -1,0 +1,12 @@
+<html>
+    <style>
+        p {text-align: center;}
+        div {text-align: left;}
+    </style>
+        <body>
+            <p>$29</p>
+                <div>New Patient Special</div>
+                <div>Includes Consultation</div>
+                <div>Exam Adjustment</div>
+        </body>
+</html>
